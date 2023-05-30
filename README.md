@@ -5,7 +5,7 @@ j.rodriguezgomez@uniandes.edu.co </br>
 Profesor del Ceper </br>
 Facultad de Artes y Humanidades </br>
 Universidad de los Andes </br>
-
+<hr>
 
 ### Contenido
 1.	Filosofía de enseñanza 
