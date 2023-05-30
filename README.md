@@ -1,6 +1,10 @@
 
 # Portafolio docente
-Jaime Andrés Rodríguez Gómez / j.rodriguezgomez@uniandes.edu.co
+Jaime Andrés Rodríguez Gómez
+Profesor del Ceper
+Facultad de Artes y Humanidades
+Universidad de los Andes
+j.rodriguezgomez@uniandes.edu.co
 
 ### Contenido
 1.	Filosofía de enseñanza 
