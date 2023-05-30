@@ -1,6 +1,6 @@
 
 # Portafolio docente
-### Jaime Andrés Rodríguez Gómez </br>
+**Jaime Andrés Rodríguez Gómez** </br>
 j.rodriguezgomez@uniandes.edu.co </br>
 Profesor del Ceper </br>
 Facultad de Artes y Humanidades </br>
