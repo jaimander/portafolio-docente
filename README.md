@@ -10,7 +10,7 @@
 6.	Evaluaciones de los cursos y la práctica docente
 7.	Desarrollo institucional
 
-## Filosofía de enseñanza
+## 1. Filosofía de enseñanza
 Realizo este texto reflexivo recurriendo a la libertad que ofrece el lenguaje cuando nos permitimos jugar con él, abrazando lo indeterminado y lo abstracto desde una actitud lúdica, para así abrir espacio a lo que puedo aprender escribiendo, a lo que puedo enseñarme jugando con las ideas. 
 
 En la relación profesor-estudiante me asumo, principalmente, como propiciador de (auto)aprendizajes; como quien a partir de pautas, señales, pistas, preguntas y detonantes invita al otro a emprender una búsqueda hacia el descubrimiento de caminos imprevistos e inexplorados, de respuestas o preguntas formuladas de manera distinta. A veces, también, una respuesta puede ser tan oportuna como una pregunta, ya que, un atajo puede hacer la diferencia entre estimular el aprendizaje o prolongar un atasco. Un atajo puede facilitar el encuentro con lo que hay detrás del obstáculo e incluso llenar un vacío mental en el otro estableciendo un puente entre ideas ya asimiladas. Por el contrario, un atajo que no se muestra, puede dejar que la frustración o bloqueo reduzca las posibilidades de descubrimiento y desencadene una desconexión motivacional con el proceso de aprendizaje. Ninguno de los extremos es totalmente favorable, pienso que hay un punto medio entre el atajo y el atasco que suscita el aprendizaje. Discernir cómo obrar ante la duda o dificultad que el otro pueda llegar a tener exige mantener una relación sensible con él, reconocer su situación particular y obrar desde una suerte de generosidad prudente y aguda.
