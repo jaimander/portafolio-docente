@@ -1,5 +1,6 @@
 
-# Portafolio docente / Jaime Andrés Rodríguez Gómez
+# Portafolio docente
+Jaime Andrés Rodríguez Gómez
 
 ### Contenido
 1.	Filosofía de enseñanza 
