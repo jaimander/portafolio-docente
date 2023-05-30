@@ -1,5 +1,8 @@
+@import url(//fonts.googleapis.com/css?family=Tomorrow);
+@import url(//fonts.googleapis.com/css?family=Chakra+Petch);
+
 body{
-font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+font-family: 'Chakra Petch', 'Tomorrow', -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
 }
 
 #contenido {
