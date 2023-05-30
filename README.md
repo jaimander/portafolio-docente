@@ -49,7 +49,7 @@ A continuación, presento los cuatro cursos que he tenido a mi cargo como profes
 **Descripción** </br>
 Narrar en la era digital implica en un nivel general hacer uso de plataformas y herramientas de creación y difusión de contenido a través de Internet con el propósito de contar historias. Sin embargo, es mucho más que esto, ya que las posibilidades de creación en Internet son diversas, por un lado, gracias a la materialidad digital —programable, combinable, variable y actualizable— de los medios computacionales, y por otro, a la estructura hipertextual, no lineal, interactiva, algorítmica, navegable y en red que caracteriza a la web. Narrar en/a través de/con/para Internet, de manera crítica y creativa, supone apropiar plataformas y herramientas en su dimensión técnica, conociendo sus posibilidades y limitaciones narrativas. Implica también abordar la creación narrativa desde la convergencia de lenguajes (escrito, sonoro, corporal y audiovisual) y desde la experimentación práctica en torno a paradigmas de creación propios de Internet. Por lo anterior, el curso se propone como un espacio para explorar el lenguaje multimedia en diálogo con prácticas creativas surgidas y consolidadas gracias a Internet, mediante ejercicios de apropiación crítica de plataformas de diseño y publicación de contenido y mediante la escritura y manipulación de código en los lenguajes de programación principales que constituyen la web (HTML, CSS y JS). 
 
-[Ver programa](https://drive.google.com/file/d/1UX5sLvHCT9MCAQ-VeqKBeix7ub2v8FAE/view?usp=drive_link)
+[Ver programa.](https://drive.google.com/file/d/1UX5sLvHCT9MCAQ-VeqKBeix7ub2v8FAE/view?usp=drive_link)
 
 ### Narrativa Sonora 2
 **Descripción** </br>
