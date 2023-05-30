@@ -9,7 +9,7 @@ Universidad de los Andes </br>
 
 ### Contenido
 1.	[Filosofía de enseñanza](https://github.com/jaimander/portafolio-docente/blob/main/README.md#1-filosof%C3%ADa-de-ense%C3%B1anza)
-2.	Cursos diseñados y dictados
+2.	[Cursos diseñados y dictados](https://github.com/jaimander/portafolio-docente#2-cursos-dise%C3%B1ados-y-dictados)
 3.	Planeación de actividades y diseño de recursos
 4.	Ejecución de estrategias de enseñanza y acompañamiento
 5.	Evaluación de aprendizaje
