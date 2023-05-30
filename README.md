@@ -1,6 +1,6 @@
 
 # Portafolio docente
-Jaime Andrés Rodríguez Gómez
+Jaime Andrés Rodríguez Gómez / j.rodriguezgomez@uniandes.edu.co
 
 ### Contenido
 1.	Filosofía de enseñanza 
