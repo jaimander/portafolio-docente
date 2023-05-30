@@ -41,6 +41,8 @@ Hasta aquí, he descrito algunos de los principios que rigen mi practica pedagó
 
 Por último, quiero finalizar este texto diciendo que veo **el aula (expandida) como un campo de experimentación creativa en torno a asuntos específicos de lo que se quiere enseñar y en torno a modos de enseñar**. Enseñar es para mi, antes que nada, una oportunidad para aprender de manera estimulante y (auto)transformadora.
 
+## 2. Cursos diseñados y dictados
+
 
 ### Guías
 - [¿Qué programas necesito instalar?](https://github.com/jaimander/ND-Programacion-Creativa/wiki/%C2%BFQu%C3%A9-programas-necesito%3F)
