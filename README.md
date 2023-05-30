@@ -7,6 +7,8 @@ Facultad de Artes y Humanidades </br>
 Universidad de los Andes </br>
 <hr>
 
+En [este link](https://drive.google.com/drive/folders/1kGUrPDPps5dyKrkDrzble9ocutdKG1lU?usp=drive_link) se puede acceder a la carpeta completa con los documentos que aquí menciono.
+
 ### Contenido
 1.	[Filosofía de enseñanza](https://github.com/jaimander/portafolio-docente/blob/main/README.md#1-filosof%C3%ADa-de-ense%C3%B1anza)
 2.	[Cursos diseñados y dictados](https://github.com/jaimander/portafolio-docente#2-cursos-dise%C3%B1ados-y-dictados)
