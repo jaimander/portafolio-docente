@@ -2,7 +2,7 @@
 @import url(//fonts.googleapis.com/css?family=Chakra+Petch);
 
 body{
-font-family: 'Chakra Petch', 'Tomorrow', -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+font-family: 'Tomorrow', -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
 background-color: rgb(255, 255, 255);
 }
 
@@ -58,7 +58,7 @@ h3{
   text-align: left;
   outline: none;
   font-size: 20px;
-  font-family: 'Chakra Petch';
+  font-family: 'Tomorrow';
 
   margin-top: 1px;
 }
