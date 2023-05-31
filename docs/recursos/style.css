@@ -55,21 +55,25 @@ body {
 
 h3{
   margin-bottom: 8px;
+  padding-right: 18px;
   padding-left: 18px;
   font-family: 'Work Sans';
   font-weight: normal;
+  background-color: white;
+  display: inline-block;
 }
 
 .contenido-colapsable {
  /* padding: 0 18px;*/
   display: none;
   overflow: hidden;
-  background-color: #f1f1f1; 
+  background-color: #cdcccc; 
  }
 
 .colapsable {
   color: rgb(0, 0, 0);
-  background-color: rgb(222, 221, 221);
+  /*background-color: rgb(210, 210, 210);*/
+  background-color: rgb(225, 225, 225);
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -91,4 +95,14 @@ h3{
 
 .active, .colapsable:hover {
   background-color: rgba(212, 255, 0);
+}
+
+h1{
+  font-family: 'Tomorrow', sans-serif;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.ubicacion{
+  margin-top: 5px;
 }
