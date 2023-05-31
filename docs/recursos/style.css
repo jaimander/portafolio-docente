@@ -54,9 +54,11 @@ body {
 }
 
 h3{
-  margin-bottom: 8px;
+  margin-bottom: 0;
   padding-right: 18px;
   padding-left: 18px;
+  padding-bottom: 6px;
+  padding-top: 6px;
   font-family: 'Work Sans';
   font-weight: normal;
   background-color: white;
