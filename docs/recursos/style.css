@@ -42,7 +42,7 @@ h3{
 
 .colapsable {
   color: rgb(0, 0, 0);
-  background-color: rgb(219, 219, 219);
+  background-color: rgb(222, 221, 221);
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -52,12 +52,16 @@ h3{
   border-width: 1px;
   border-color: black;
   
+  border: none;
+  
   text-align: left;
   outline: none;
   font-size: 20px;
   font-family: 'Chakra Petch';
+
+  margin-top: 1px;
 }
 
 .active, .colapsable:hover {
-  background-color: rgb(240, 240, 240);
+  background-color: rgba(212, 255, 0, 0.8);
 }
