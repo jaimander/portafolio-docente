@@ -212,3 +212,13 @@ h2{
 .texto i{
   font-weight: 300;
 }
+
+.cursos{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.contenido-colapsable {
+  background-color: #e7e7e7;
+}
+
