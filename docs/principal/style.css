@@ -169,10 +169,8 @@ hr{
 
 #contenido-pagina-principal p{
   padding-left: 20px;
-}
-
-#contenido-pagina-principal p{
   margin-top: 8px;
+  font-weight: 300;
 }
 
 .indice{
