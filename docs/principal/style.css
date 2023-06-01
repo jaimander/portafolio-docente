@@ -7,6 +7,8 @@
 body{
 font-family: 'Tomorrow', 'Chakra Petch', -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
 background-color: rgb(255, 255, 255);
+
+background-color: #e7e7e7;
 }
 
 /*
@@ -82,7 +84,7 @@ h3{
 .colapsable {
   color: rgb(0, 0, 0);
   /*background-color: rgb(210, 210, 210);*/
-  background-color: rgb(225, 225, 225);
+  background-color: rgb(255, 255, 255);
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -205,6 +207,14 @@ h2{
   font-weight: 300;
 }
 
+.filosofia{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: white;
+}
+
 .texto b{
  font-weight: 600;
 }
@@ -213,12 +223,18 @@ h2{
   font-weight: 300;
 }
 
-.cursos{
-  padding-left: 10px;
-  padding-right: 10px;
+.cursos p{
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .contenido-colapsable {
   background-color: #e7e7e7;
+
+  background-color: rgb(255, 255, 255);
 }
 
+.contenido-colapsable h3{
+  background-color: #e7e7e7;
+  
+}
