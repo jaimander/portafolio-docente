@@ -62,7 +62,10 @@ h3{
   padding-left: 18px;
   padding-bottom: 6px;
   padding-top: 6px;
+  /*
   font-family: 'Work Sans';
+  */
+  font-family: 'Tomorrow', sans-serif;
   font-weight: normal;
   background-color: white;
   display: inline-block;
@@ -180,8 +183,13 @@ hr{
 .indice a{
  /* font-family: 'Work Sans';*/
   font-family: 'Tomorrow';
-  color: rgb(0, 0, 255);
+  color: rgb(0, 0, 0);
   font-size: 18px;
+  text-decoration: none;
+}
+
+.indice a:hover{
+  color: rgb(0, 0, 255);
 }
 
 h2{
