@@ -92,8 +92,8 @@ h3{
   text-align: left;
   outline: none;
   font-size: 20px;
-  font-family: 'Work Sans', 'Chakra Petch', sans-serif;
-
+  /*font-family: 'Work Sans', 'Chakra Petch', sans-serif;*/
+  font-family: 'Tomorrow', sans-serif;
   margin-top: 1px;
 }
 
@@ -133,7 +133,60 @@ h1{
   margin-bottom: 5px;
 }
 
+.ubicacion a{
+  text-decoration: none;
+  color: black;
+}
+
+.ubicacion a:hover{
+  color: blue;
+}
+
 hr{
   margin-bottom: 40px;
 }
 
+#titulo-portafolio{
+  font-size: 50px;
+}
+
+#contenido-pagina-principal{
+  background-color: #e7e7e7;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  max-width: 700px;
+  height: 100vh;
+}
+
+#contenido-pagina-principal h1{
+  padding-left: 10px;
+}
+
+#contenido-pagina-principal p{
+  padding-left: 20px;
+}
+
+#contenido-pagina-principal p{
+  margin-top: 8px;
+}
+
+.indice{
+  padding-left: 40px;
+
+}
+
+.indice a{
+ /* font-family: 'Work Sans';*/
+  font-family: 'Tomorrow';
+  color: rgb(0, 0, 255);
+}
+
+h2{
+  font-family: 'Tomorrow', sans-serif;
+  margin-top: 5px;
+  margin-bottom: 10px;;
+  font-weight: normal;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+}
