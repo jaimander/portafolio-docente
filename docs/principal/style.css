@@ -97,18 +97,43 @@ h3{
   margin-top: 1px;
 }
 
+.colapsable img{
+  height: 20px;
+  width: auto;
+  right: 10px;
+  float: right;
+  content: url("/images/down-arrow.png");
+}
+
+.active img{
+  height: 20px;
+  width: auto;
+  right: 10px;
+  float: right;
+  content: url("/images/up-arrow.png");
+}
+
 .active, .colapsable:hover {
   background-color: rgba(212, 255, 0);
+  /*
   margin-left: -5%;
   width: 105%;
+  */
 }
 
 h1{
   font-family: 'Tomorrow', sans-serif;
   margin-top: 5px;
-  font-weight: bold;
+  margin-bottom: 10px;;
+  font-weight: normal;
+  color: rgb(0, 0, 0);
 }
 
 .ubicacion{
   margin-bottom: 5px;
 }
+
+hr{
+  margin-bottom: 40px;
+}
+
