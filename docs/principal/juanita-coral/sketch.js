@@ -87,7 +87,7 @@ function draw() {
 
    //crece
 
-   if ((distancia > 100) && (ytallo > 80)) {
+   if ((distancia > 50) && (ytallo > 80)) {
 
       for (let i= 0;i < 30; i++) {
          stroke (255, 195, 0, 100);
