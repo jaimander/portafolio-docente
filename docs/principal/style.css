@@ -272,6 +272,8 @@ h4{
   margin-bottom: 20px;
   text-decoration: none;
   color: black;
+  transform: translateX(-50%);
+  margin-left: 50%;
 }
 
 .conoce-mas:hover{
