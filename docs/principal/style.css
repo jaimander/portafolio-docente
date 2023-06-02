@@ -228,6 +228,10 @@ h2{
   padding-right: 20px;
 }
 
+.presentacion b{
+  font-weight: 600;
+}
+
 .contenido-colapsable {
   background-color: #e7e7e7;
 
@@ -238,3 +242,19 @@ h2{
   background-color: #e7e7e7;
   
 }
+
+.proyectop5js{
+  margin-top: 0px;
+}
+
+.autor-trabajo{
+  margin-bottom: 5px;
+}
+
+.link{
+  font-weight: 400;
+  text-decoration: none;
+  color: blue;
+}
+
+
