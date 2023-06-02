@@ -200,6 +200,7 @@ h2{
   font-weight: normal;
   color: rgb(0, 0, 0);
   font-size: 30px;
+  width: 90%;
 }
 
 .texto{
@@ -288,4 +289,25 @@ h4{
   margin-top: 30px;
   color: #e7e7e7;
   
+}
+
+.boton-volver{
+  font-size: 15px;
+  display: inline;
+}
+
+.ubicacion-volver h2{
+  display: inline;
+  margin: 0;
+ }
+
+.ubicacion-volver{
+  display: flex;
+  flex: wrap;
+  margin: 0;
+  padding: 0;
+}
+
+.ubicacion-volver a{
+  margin-top: 10px;
 }
