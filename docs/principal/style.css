@@ -275,11 +275,15 @@ h4{
   color: black;
   transform: translateX(-50%);
   margin-left: 50%;
+  width: 70%;
+  text-align: center;
 }
 
 .conoce-mas:hover{
   background-color: rgba(212, 255, 0);
   cursor: pointer;
+  width: 70%;
+  text-align: center;
 }
 
 .linea-seccion{
