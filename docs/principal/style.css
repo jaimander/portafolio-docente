@@ -329,6 +329,7 @@ header{
 
 .cursos ol{
   margin-top: 0px;
+  padding-right: 20px;
 }
 
 .microrrelato{
@@ -354,6 +355,10 @@ header{
   margin-top: 20px;
 }
 
+.division-proyectos{
+  color: #ffffff;
+  
+}
 .contenedor-podcast img{
   width: 100%;
 }
