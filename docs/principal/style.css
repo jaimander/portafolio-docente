@@ -330,3 +330,34 @@ header{
 .cursos ol{
   margin-top: 0px;
 }
+
+.microrrelato{
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.info-trabajo{
+  margin-bottom: 1px;
+  margin-top: 1px;
+  font-weight: 200;
+}
+
+.info-trabajo b{
+  font-weight: 400;
+}
+
+.contenedor-podcast{
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 20px;
+}
+
+.contenedor-podcast img{
+  width: 100%;
+}
+
+.podcast {
+  width: 100%;
+}
