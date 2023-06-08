@@ -117,7 +117,7 @@ h3{
   width: auto;
   right: 10px;
   float: right;
-  content: url("/images/up-arrow.png");
+  content: url("/portafolio-docente/principal/images/up-arrow.png");
 }
 
 .active, .colapsable:hover {
